@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("hello future fucking world");
+    printf("hello future f world");
     printf ("my third woek");
 }
